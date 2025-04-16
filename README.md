@@ -1,12 +1,12 @@
-![image](https://github.com/user-attachments/assets/f71d2981-7c04-4863-b891-5b17252894af)**🍕 **Custom Pie Pizzeria - Restaurant Management System** 🍕**
+<h1 align="center">🍕 Custom Pie Pizzeria - Restaurant Management System 🍕</h1>
 
-**📝 Overview**
+<h3 align="center">📝 Overview</h3>
 Custom Pie Pizzeria is a modern restaurant management web application that allows customers to browse the menu, customize items, add them to cart, and place orders. The system includes user authentication, menu browsing, cart management, and order processing functionalities.
 ![image](https://github.com/user-attachments/assets/ac00e94d-1603-495d-876c-aba409b8a066)
 
 
-**✨ Features**
-  **User Authentication:**
+<h3 align="center">✨ Features</h3>
+ <h4 align="center"> User Authentication:</h4>
   Login/Logout functionality
   Protected routes for authenticated users
   User session persistence
@@ -18,7 +18,7 @@ Custom Pie Pizzeria is a modern restaurant management web application that allow
   ![image](https://github.com/user-attachments/assets/847da1d3-54e5-4739-9b77-dcae9f3bda13)
 
   
-  **Menu Browsing:**
+  <h4 align="center">Menu Browsing:</h4>
   Category-based menu organization
   Detailed item descriptions with images
   Popular items highlighting
@@ -35,7 +35,7 @@ Custom Pie Pizzeria is a modern restaurant management web application that allow
   ![image](https://github.com/user-attachments/assets/2ccd251c-f12c-4698-8893-3f1c740f523d)
 
   
- ** Order Customization:**
+ <h4 align="center"> Order Customization:</h4>
   Extensive customization options
   Real-time price calculation
   Visual feedback for selected options
@@ -47,9 +47,9 @@ Custom Pie Pizzeria is a modern restaurant management web application that allow
   ![image](https://github.com/user-attachments/assets/f0b3745d-6c4b-422d-a677-318bfc1c6154)
 
   
-  **Cart Management:**
-  **Add/remove items
-  Quantity adjustment**
+  <h4 align="center">Cart Management:</h4>
+  Add/remove items
+  Quantity adjustment
   
    ![image](https://github.com/user-attachments/assets/b889d79b-48da-4c7f-ae7c-da6b14bad29f)
 
@@ -59,41 +59,43 @@ Custom Pie Pizzeria is a modern restaurant management web application that allow
 
   ![image](https://github.com/user-attachments/assets/8d55b67b-a8de-45e8-bc28-2d474c15cdee)
   
-  **Order summary with tax and discounts**
+  <h4 align="center">Order summary with tax and discounts</h4>
   
   ![image](https://github.com/user-attachments/assets/89e605ce-0226-49c3-8487-86101387ef08)
 
-  **Generate invoice bill** - ("https://drive.google.com/file/d/1SyQxYV5ABdxXR5U2jFMr75PvAbmQ7Cav/view?usp=sharing")
+ <h4 align="center"> Generate invoice bill -</h4> ("https://drive.google.com/file/d/1SyQxYV5ABdxXR5U2jFMr75PvAbmQ7Cav/view?usp=sharing")
+ 
 
   ![image](https://github.com/user-attachments/assets/6e0dcedd-a085-4c4d-9c57-33eb083ea9c3)
 
-  **Multiple payment options**
+ <h4 align="center"> Multiple payment options</h4>
+ 
   ![image](https://github.com/user-attachments/assets/bddfe19a-e90d-4178-ab5f-47345434b7f1)
-  ![image](https://github.com/user-attachments/assets/129d28c9-65d0-49fe-84ea-68a832cf9a25)
-  ![image](https://github.com/user-attachments/assets/ea3b7a2e-4b68-4354-b75c-38d90c13fc13)
-  ![image](https://github.com/user-attachments/assets/b516fe04-3be9-4492-a45c-d31f1b3d287d)
-  ![image](https://github.com/user-attachments/assets/0dbf62e2-cb9c-4192-900e-6ef13a386603)
+ 
   
- ** Responsive Design:**
+  Responsive Design:
   Mobile-first approach
   Adapts to all screen sizes
   Touch-friendly interface
 
-  Mobile Screen
+ <h4 align="center"> Mobile Screen</h4>
+ 
   ![image](https://github.com/user-attachments/assets/4c80164c-d249-4e15-a8ca-58278aa3923c)
-  Tab Screen
+
+  <h4 align="center"> Tab Screen</h4>
+  
   ![image](https://github.com/user-attachments/assets/f1e084c2-57c1-4a28-a6ca-fe62df68a8dc)
 
-🛠️ Technologies Used
+<h3 align="center">🛠️ Technologies Used</h3>
 
-Frontend:
+<h4 align="center">Frontend:</h4>
 React.js
 React Router
 Context API (State Management)
 CSS3 (Flexbox, Grid)
 Responsive Design Principles
 
-Backend:
+<h4 align="center">Backend:</h4>
 Node.js (Example setup)
 Express (Example setup)
 JSON (For menu data storage)
@@ -103,7 +105,7 @@ Prerequisites
 Node.js (v14 or higher)
 npm (v6 or higher)
 
-🎨 Screens
+<h4 align="center">🎨 Screens </h4>
 Login Screen: User authentication
 Menu Screen: Browse menu by categories
 Customize Screen: Customize menu items
@@ -111,7 +113,7 @@ Cart Screen: Review and manage cart items
 Order Summary: Final order confirmation
 Payment Screen: Secure payment processing
 
-🔒 Authentication Flow
+<h4 align="center">🔒 Authentication Flow</h4>
 Unauthenticated users can browse the menu
 Authentication is required for:
 Adding items to cart
@@ -119,7 +121,7 @@ Customizing items
 Viewing the cart
 Placing orders
 
-🌟 Future Enhancements
+<h4 align="center">🌟 Future Enhancements</h4>
 User registration system
 Order history tracking
 Admin dashboard
@@ -127,7 +129,7 @@ Real-time order updates
 Integration with payment gateways
 Loyalty program integration
 
-🤝 Contributing
+<h4 align="center">🤝 Contributing</h4>
 Contributions are welcome! Please follow these steps:
 Fork the project
 Create your feature branch (git checkout -b feature/AmazingFeature)
